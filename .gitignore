@@ -1,0 +1,5 @@
+# Archivos objeto temporales
+*.obj
+
+# Archivos temporales
+*.tmp
